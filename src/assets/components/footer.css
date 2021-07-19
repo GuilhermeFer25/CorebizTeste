@@ -1,0 +1,30 @@
+@media  (min-width: 320px) {
+  .footer-mob{
+    padding: 3rem;
+    width: 100vw;
+    height: 29rem;
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .localizacao-footer{
+    padding-left:0;
+    line-height: 2;
+    width: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  .localizacao-footer > h4{
+    line-height: 1.5;
+    font-size: 0.8rem;
+  }
+  .contato-footer{
+    align-items: center;
+    display: flex;
+    flex-direction: column;  
+  }
+  .Powered-footer{
+    margin-top: 3rem;
+    justify-content: space-between;    
+  }
+}

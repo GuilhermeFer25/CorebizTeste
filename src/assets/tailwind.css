@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+
+/* Navigation */
+@import './components/navbar.css';
+
+/* productCard */
+@import './components/productCard.css'; 
+
+/*Header*/
+@import './components/header.css';
+
+/*Newslatter */
+@import './components/newslatter.css';
+
+/*footer*/
+@import './components/footer.css';
+
+@tailwind utilities;
