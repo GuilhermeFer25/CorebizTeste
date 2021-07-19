@@ -3,7 +3,10 @@ import '../../assets/components/footer.css'
 
 function Footer() {
   return (
-    <footer id='footer-mob' className=" xl: grid grid-cols-3 gap-4 w-full h-56 bg-black text-white ">
+    <footer
+      id="footer-mob"
+      className=" xl: grid grid-cols-3 gap-4 w-full h-56 bg-black text-white "
+    >
       <div className="localizacao-footer flex flex-col col-span-1 justify-center pl-40 ">
         <h1 className="text-xl">
           Localização <p className="flex w-11 h-1 bg-white my-5"></p>
@@ -13,10 +16,7 @@ function Footer() {
         <h4 className="text-xs ">brasil@corebiz.a</h4>
         <h4 cçassname="text-xs ">+55 11 3090 1039</h4>
       </div>
-      <div
-
-        className="lg:flex flex-col py-13 justify-center items-center col-span-1 sm: items-center flex flex-col  "
-      >
+      <div className="lg:flex flex-col py-13 justify-center items-center col-span-1 sm: items-center flex flex-col  ">
         <button class="w-48 bg-white hover:bg-gray-200 my-4 text-gray-800 font-bold py-2 px-4 rounded inline-flex items-center ">
           <svg
             xmlns="http://www.w3.org/2000/svg"
