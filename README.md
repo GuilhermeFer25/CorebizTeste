@@ -23,7 +23,7 @@ Através do consumo das APIs: [Apis](https://documenter.getpostman.com/view/1811
 - Ao atualizar a página, a quantidade de produtos no carrinho deve ser preservada, :heavy_check_mark:
 - Crie validações para o form de contato. (Ex: se o e-mail for inválido ou o nome vazio), :heavy_check_mark:
 - Ao clicar em enviar com os campos validados, o form precisa ser disparado via javascript para a API de newsletter seguindo as especificações da API. :heavy_check_mark:
-- Responsividade mobile e desktop. heavy_check_mark: / :heavy_multiplication_x:
+- Responsividade mobile e desktop. :heavy_check_mark: / :heavy_multiplication_x:
 
 Legendas:
 - Concluído: :heavy_check_mark: <br>
